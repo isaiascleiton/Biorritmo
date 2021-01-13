@@ -1,0 +1,54 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: whitesmoke;
+}
+
+p{
+    color: red;
+    text-align: center;
+}
+
+h1 {
+    background-color: #606060;
+    text-align: center;
+    color: whitesmoke;
+}
+
+h2 {
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.formulario {
+    width: 100%;
+    max-width: 500px;
+}
+
+.forms {
+    display: flex;
+    justify-content: center;
+}
+
+.caixa {
+    padding: 10px;
+    margin-right: 15px;
+    margin-left: 15px;
+    text-align: center;
+}
+
+.send {
+    height: 50px;
+    width: 150px;
+    background-color: #606060;
+    color: whitesmoke;
+}
+
+figcaption {
+    color: darkcyan;
+    font-size: 20px;
+    text-align: center;
+}
